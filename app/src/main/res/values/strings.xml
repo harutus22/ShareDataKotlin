@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareDataKotlin</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_your_message">Enter your message</string>
+</resources>
